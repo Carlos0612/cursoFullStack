@@ -1,0 +1,44 @@
+body{
+
+    background: #C4C4C4;
+    margin: 3% 0%;
+
+}
+
+.header{
+    display: inline-block;
+    width: 100%;
+    height: 300px;
+    
+    background: white;
+
+}
+
+.divf{
+display: inline-block;
+width: 25px;
+height: 382px;
+
+background: #FFFFFF;
+}
+
+.divs{
+
+position: absolute;
+width: 25px;
+height: 1132px;
+
+background: #C4C4C4;
+
+}
+
+.divt{
+    /* Rectangle 1 */
+
+position: absolute;
+width: 1280px;
+height: 1132px;
+
+background: #C4C4C4;
+
+}

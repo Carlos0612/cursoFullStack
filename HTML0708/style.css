@@ -1,0 +1,35 @@
+body{
+    background-color: lightblue;
+    display: flex;
+    margin: auto;
+    padding: 5px;
+}
+.modal{
+    border: solid black 1px;
+    background-color: white;
+    padding: 0px;
+}
+.top , footer{    
+    margin: auto;
+    padding: 20px;
+    display: block;
+}
+footer{
+    margin-left: auto;
+}
+main{    
+    margin: auto;    
+    border-top: solid black 1px;
+    border-bottom: solid black 1px;
+    padding: 20px;
+    display: block;
+}
+
+.btn{
+    display: flex;
+    margin-left: auto;
+    border: solid green 1px;
+    padding: 5px 20px 5px 20px;
+    background-color: green;
+    color: greenyellow;
+}
